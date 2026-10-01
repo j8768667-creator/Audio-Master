@@ -1,0 +1,7 @@
+{
+  "name": "Rack Master Pro — Professional Audio Mastering & Analysis Studio",
+  "description": "Professional web-based audio mastering suite with ITU-R BS.1770-4 LUFS metering, True Peak limiter, 5-band EQ, M/S stereo processor, multiband compression, and WAV/MP3 export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
